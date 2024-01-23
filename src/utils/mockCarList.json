@@ -1,0 +1,39 @@
+{
+  "carList": [
+    {
+      "id": 1,
+      "image_url": "bmw.png",
+      "brand_name": "BMW"
+    },
+    {
+      "id": 2,
+      "image_url": "ford.jpg",
+      "brand_name": "Ford"
+    },
+    {
+      "id": 3,
+      "image_url": "honda.jpg",
+      "brand_name": "Honda"
+    },
+    {
+      "id": 4,
+      "image_url": "hyundai.jpg",
+      "brand_name": "Hyundai"
+    },
+    {
+      "id": 5,
+      "image_url": "mahindra.jpg",
+      "brand_name": "Mahindra"
+    },
+    {
+      "id": 6,
+      "image_url": "maruthi.png",
+      "brand_name": "Maruthi"
+    },
+    {
+      "id": 7,
+      "image_url": "Renault-Logo.png",
+      "brand_name": "Renault"
+    }
+  ]
+}
